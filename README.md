@@ -2,6 +2,8 @@
 
 Projeto de um **validador de formulário** desenvolvido com HTML, CSS e JavaScript, criado para praticar validação de campos, manipulação do DOM e organização da lógica JavaScript.
 
+🔗 ## Link do projeto: https://maria-elane7.github.io/tela-de-cadrastro/
+
 ## 🚀 Sobre o projeto
 
 O projeto consiste em um formulário de criação de conta com validações realizadas antes do envio.
@@ -87,10 +89,4 @@ Este projeto foi desenvolvido como parte dos meus estudos em **desenvolvimento F
 
 ---
 
-## 👩‍💻 Desenvolvido por
-
-**Maria Elane**
-
-[GitHub](https://github.com/maria-elane7)
-
-[LinkedIn](https://www.linkedin.com/in/maria-elane/)
+💻 Projeto desenvolvido para prática e evolução em Front-End.
