@@ -2,7 +2,7 @@
 
 Projeto de um **validador de formulário** desenvolvido com HTML, CSS e JavaScript, criado para praticar validação de campos, manipulação do DOM e organização da lógica JavaScript.
 
-🔗 ## Link do projeto: https://maria-elane7.github.io/tela-de-cadrastro/
+ ## 🔗 Link do projeto: https://maria-elane7.github.io/tela-de-cadrastro/
 
 ## 🚀 Sobre o projeto
 
